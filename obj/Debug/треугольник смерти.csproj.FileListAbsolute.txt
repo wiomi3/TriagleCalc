@@ -1,0 +1,14 @@
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\треугольник смерти.csproj.AssemblyReference.cache
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\MainWindow.g.cs
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\App.g.cs
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\треугольник смерти_MarkupCompile.cache
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\MainWindow.baml
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\треугольник смерти.g.resources
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\треугольник_смерти.Properties.Resources.resources
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\треугольник смерти.csproj.GenerateResource.cache
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\треугольник смерти.csproj.CoreCompileInputs.cache
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\bin\Debug\треугольник смерти.exe.config
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\bin\Debug\треугольник смерти.exe
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\bin\Debug\треугольник смерти.pdb
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\треугольник смерти.exe
+C:\Users\79219\Desktop\Котеян Касим 223 группа\треугольник смерти\obj\Debug\треугольник смерти.pdb

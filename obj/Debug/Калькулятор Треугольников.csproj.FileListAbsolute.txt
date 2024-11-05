@@ -1,0 +1,14 @@
+C:\Users\wiomi\Downloads\--master\bin\Debug\треугольник смерти.exe.config
+C:\Users\wiomi\Downloads\--master\bin\Debug\треугольник смерти.exe
+C:\Users\wiomi\Downloads\--master\bin\Debug\треугольник смерти.pdb
+C:\Users\wiomi\Downloads\--master\obj\Debug\Калькулятор Треугольников.csproj.AssemblyReference.cache
+C:\Users\wiomi\Downloads\--master\obj\Debug\MainWindow.baml
+C:\Users\wiomi\Downloads\--master\obj\Debug\MainWindow.g.cs
+C:\Users\wiomi\Downloads\--master\obj\Debug\App.g.cs
+C:\Users\wiomi\Downloads\--master\obj\Debug\треугольник смерти_MarkupCompile.cache
+C:\Users\wiomi\Downloads\--master\obj\Debug\треугольник смерти.g.resources
+C:\Users\wiomi\Downloads\--master\obj\Debug\треугольник_смерти.Properties.Resources.resources
+C:\Users\wiomi\Downloads\--master\obj\Debug\Калькулятор Треугольников.csproj.GenerateResource.cache
+C:\Users\wiomi\Downloads\--master\obj\Debug\Калькулятор Треугольников.csproj.CoreCompileInputs.cache
+C:\Users\wiomi\Downloads\--master\obj\Debug\треугольник смерти.exe
+C:\Users\wiomi\Downloads\--master\obj\Debug\треугольник смерти.pdb
